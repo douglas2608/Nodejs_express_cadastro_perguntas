@@ -47,3 +47,5 @@ app.post("/recebendo",function(req,res){
     //res.send("campo1 = "+ titulo2 + " campo2 =  " + descricao)
 })
 app.listen(8000)
+
+//O ARQUIVO PERGUNTA ESTA DENTRO DA VIEWS PERGUNTA.EJS
